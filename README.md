@@ -1,7 +1,8 @@
 # Homea Assistant
 
 # tools:
-Raspberry Pi 3 Model B (32 bit) \n
+Raspberry Pi 3 Model B (32 bit)
+
 Aeotec Z-stick (5 gen)
 
 # intial setup:
