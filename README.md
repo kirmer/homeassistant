@@ -6,16 +6,16 @@ Raspberry Pi 3 Model B (32 bit)
 Aeotec Z-stick (5 gen)
 
 # intial setup:
-https://www.home-assistant.io/getting-started/
+1. https://www.home-assistant.io/getting-started/
 
-plug usb stick (https://obchod.homesystem.sk/centra/z-stick-usb-adapter-s-bateriou/)
+2. plug usb stick (https://obchod.homesystem.sk/centra/z-stick-usb-adapter-s-bateriou/)
 
-install z-wave service: 
+3. install z-wave service: 
 https://www.home-assistant.io/docs/z-wave/installation
 
-install ssh service:
+4. install ssh service:
 https://www.home-assistant.io/addons/ssh/
-stop usb stick blinking:
+5. stop usb stick blinking:
 https://www.home-assistant.io/docs/z-wave/device-specific/#aeotec-z-stick
 
 
