@@ -1,4 +1,4 @@
-# Homea Assistant
+# Home Assistant
 
 # tools:
 Raspberry Pi 3 Model B (32 bit)
